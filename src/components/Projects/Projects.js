@@ -9,7 +9,7 @@ const Projects = () => {
       <div className="min-h-fit max-h-fit bg-white">
         <div className="">
           <div className="px-6 py-12">
-            <h1 className="text-4xl font-bold pt-4 text-center">My Projects</h1>
+            <h1 className="text-4xl text-primary font-bold pt-4 text-center">My Projects</h1>
             <div className="place-items-center grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 text-center py-8">
               {/* -------------------Project Bootstrap------------ */}
               <div
