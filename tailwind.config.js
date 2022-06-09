@@ -4,8 +4,8 @@ module.exports = {
     themes: [
       {
         portfolio: {
-          primary: "#a991f7",
-          secondary: "#f6d860",
+          primary: "#22C56C",
+          secondary: "#8B5CF6",
           accent: "#37cdbe",
           neutral: "#3d4451",
           "base-100": "#ffffff",

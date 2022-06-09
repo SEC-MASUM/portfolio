@@ -36,7 +36,9 @@ const Navbar = () => {
               {menuItems}
             </ul>
           </div>
-          <a class="btn btn-ghost normal-case text-xl">Masum</a>
+          <a class="btn btn-ghost normal-case text-xl">
+            <span className="text-primary">Masum</span> Billah
+          </a>
         </div>
         <div class="navbar-center hidden lg:flex">
           <ul class="menu menu-horizontal p-0">{menuItems}</ul>
@@ -45,7 +47,7 @@ const Navbar = () => {
           <a
             href="https://drive.google.com/file/d/1516clwC-JRrVQ5i8wDT2pJxcNMkBVuk9/view"
             target="_blank"
-            className="btn btn-primary"
+            className="btn btn-primary text-white"
             rel="noreferrer"
           >
             Download Resume
