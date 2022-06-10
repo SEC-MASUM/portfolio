@@ -1,29 +1,34 @@
 import React from "react";
 import { HiOutlineMenuAlt1 } from "react-icons/hi";
+import { FaCloudDownloadAlt } from "react-icons/fa";
+import { Link } from "react-router-dom";
 const Navbar = () => {
   const menuItems = (
     <>
       <li>
-        <a>Home</a>
+        <Link to="/">Home</Link>
       </li>
       <li>
         <a>About</a>
       </li>
       <li>
-        <a>Projects</a>
+        <a href="#projects">Projects</a>
       </li>
 
       <li>
-        <a>Skills</a>
+        <a href="#skills">Skills</a>
       </li>
       <li>
-        <a>Contact</a>
+        <Link to="/blogs">Blogs</Link>
+      </li>
+      <li>
+        <a href="#contact">Contact</a>
       </li>
     </>
   );
   return (
-    <div className="container mx-auto">
-      <div class="navbar bg-base-100">
+    <div className="sticky top-0 z-10 bg-base-100 shadow">
+      <div class="container mx-auto navbar ">
         <div class="navbar-start">
           <div class="dropdown">
             <label tabindex="0" class="btn btn-ghost lg:hidden">
@@ -44,14 +49,17 @@ const Navbar = () => {
           <ul class="menu menu-horizontal p-0">{menuItems}</ul>
         </div>
         <div class="navbar-end">
-          <a
-            href="https://drive.google.com/file/d/1516clwC-JRrVQ5i8wDT2pJxcNMkBVuk9/view"
-            target="_blank"
-            className="btn btn-primary text-white"
-            rel="noreferrer"
-          >
-            Download Resume
-          </a>
+          <div className="flex gap-4">
+            <a>
+              <i class="devicon-linkedin-plain text-2xl"></i>
+            </a>
+            <a>
+              <i class="devicon-github-original text-2xl"></i>
+            </a>
+            <a>
+              <i class="devicon-facebook-plain text-2xl"></i>
+            </a>
+          </div>
         </div>
       </div>
     </div>
