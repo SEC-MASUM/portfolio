@@ -9,7 +9,7 @@ const Navbar = () => {
         <Link to="/">Home</Link>
       </li>
       <li>
-        <a>About</a>
+        <a href="#about">About</a>
       </li>
       <li>
         <a href="#projects">Projects</a>
@@ -22,7 +22,7 @@ const Navbar = () => {
         <Link to="/blogs">Blogs</Link>
       </li>
       <li>
-        <a href="#contact">Contact</a>
+        <a href="/#contact">Contact</a>
       </li>
     </>
   );
@@ -50,13 +50,25 @@ const Navbar = () => {
         </div>
         <div className="navbar-end">
           <div className="flex gap-4">
-            <a>
+            <a
+              href="https://www.linkedin.com/in/masumbillah42/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="devicon-linkedin-plain text-2xl"></i>
             </a>
-            <a>
+            <a
+              href="https://github.com/SEC-MASUM"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="devicon-github-original text-2xl"></i>
             </a>
-            <a>
+            <a
+              href="https://www.facebook.com/devbillah.masum/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="devicon-facebook-plain text-2xl"></i>
             </a>
           </div>

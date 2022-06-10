@@ -10,13 +10,25 @@ const Footer = () => {
     >
       <footer className="container mx-auto flex flex-col justify-center sm:flex-row-reverse sm:justify-between sm:items-center">
         <div className="flex justify-center sm:justify-end gap-4">
-          <a>
+          <a
+            href="https://www.linkedin.com/in/masumbillah42/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="devicon-linkedin-plain text-2xl"></i>
           </a>
-          <a>
+          <a
+            href="https://github.com/SEC-MASUM"
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="devicon-github-original text-2xl"></i>
           </a>
-          <a>
+          <a
+            href="https://www.facebook.com/devbillah.masum/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="devicon-facebook-plain text-2xl"></i>
           </a>
         </div>
