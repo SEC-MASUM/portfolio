@@ -1,6 +1,6 @@
 import React from "react";
 import photo from "../../assets/images/Profile-Picture.png";
-import {FaCloudDownloadAlt} from "react-icons/fa"
+import { FaCloudDownloadAlt } from "react-icons/fa";
 const Banner = () => {
   return (
     <div className="container mx-auto">
@@ -33,10 +33,10 @@ const Banner = () => {
         </div>
         <div className="flex-1 flex justify-center items-center">
           <figure>
-            <img src={photo} class="max-w-sm" alt="" />
+            <img src={photo} className="max-w-sm" alt="" />
             {/* <img
               src="https://api.lorem.space/image/movie?w=260&h=400"
-              class="max-w-sm rounded-lg shadow-2xl"
+              className="max-w-sm rounded-lg shadow-2xl"
               alt=""
             /> */}
           </figure>

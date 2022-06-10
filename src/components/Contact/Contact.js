@@ -66,7 +66,7 @@ const Contact = () => {
             ></input>
             <div className="relative mb-4">
               <label htmlFor="name" className="label">
-                <span class="label-text">Name</span>
+                <span className="label-text">Name</span>
               </label>
               <input
                 type="text"
@@ -77,7 +77,7 @@ const Contact = () => {
             </div>
             <div className="relative mb-4">
               <label htmlFor="email" className="label">
-                <span class="label-text">Email</span>
+                <span className="label-text">Email</span>
               </label>
               <input
                 type="email"
@@ -89,7 +89,7 @@ const Contact = () => {
             </div>
             <div className="relative mb-4">
               <label htmlFor="message" className="label">
-                <span class="label-text">Message</span>
+                <span className="label-text">Message</span>
               </label>
               <textarea
                 id="message"

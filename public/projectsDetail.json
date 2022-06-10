@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "Auto Zone",
+    "subtitle": "MERN Stack",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    "technologies": [
+      "React",
+      "Node",
+      "Express",
+      "Tailwind CSS"
+    ],
+    "coverPhoto" : "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/auto-zone.png",
+    "images": [
+      {
+        "imageURL": "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/auto-zone-add-product.png",
+        "title": "Add Product Page"
+      },
+      {
+        "imageURL": "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/auto-zone-manage-orders.png",
+        "title": "Manage Orders Page"
+      },
+      {
+        "imageURL": "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/auto-zone-purchase.png",
+        "title": "Product Purchase Page"
+      },
+      {
+        "imageURL": "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/auto-zone-user-role.png",
+        "title": "Manage User Role Page"
+      }
+    ],
+    "live": "https://auto-zone-01.web.app/",
+    "client": "https://github.com/SEC-MASUM/auto-zone-client",
+    "server": "https://github.com/SEC-MASUM/auto-zone-server"
+  },
+  {
+    "id": 2,
+    "title": "Auto Zone",
+    "subtitle": "MERN Stack",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    "technologies": [
+      "React",
+      "Node",
+      "Express",
+      "Tailwind CSS"
+    ],
+    "coverPhoto" : "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/auto-zone.png",
+    "images": [
+      {
+        "imageURL": "https://github.com/SEC-MASUM/portfolio-resource/blob/main/images/auto-zone-add-product.png",
+        "title": "Add Product Page"
+      },
+      {
+        "imageURL": "https://github.com/SEC-MASUM/portfolio-resource/blob/main/images/auto-zone-manage-orders.png",
+        "title": "Manage Orders Page"
+      },
+      {
+        "imageURL": "https://github.com/SEC-MASUM/portfolio-resource/blob/main/images/auto-zone-purchase.png",
+        "title": "Product Purchase Page"
+      },
+      {
+        "imageURL": "https://github.com/SEC-MASUM/portfolio-resource/blob/main/images/auto-zone-user-role.png",
+        "title": "Manage User Role Page"
+      }
+    ],
+    "live": "https://auto-zone-01.web.app/",
+    "client": "https://github.com/SEC-MASUM/auto-zone-client",
+    "server": "https://github.com/SEC-MASUM/auto-zone-server"
+  }
+  
+]

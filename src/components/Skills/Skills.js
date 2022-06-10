@@ -21,27 +21,27 @@ const Skills = () => {
           </h1>
           <ul className="grid grid-cols-1 sm:grid-cols-2 gap-8 px-8 py-4 ">
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-javascript-plain"></i>
+              <i className="devicon-javascript-plain"></i>
               <p>JavaScript</p>
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-react-original"></i>
+              <i className="devicon-react-original"></i>
               <p>ReactJs</p>
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-html5-plain"></i>
+              <i className="devicon-html5-plain"></i>
               <p>HTML</p>
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-css3-plain"></i>
+              <i className="devicon-css3-plain"></i>
               <p>CSS</p>
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-tailwindcss-plain"></i>
+              <i className="devicon-tailwindcss-plain"></i>
               <p>Tailwind CSS</p>
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-bootstrap-plain"></i>
+              <i className="devicon-bootstrap-plain"></i>
               <p>Bootstrap</p>
             </li>
 
@@ -61,15 +61,15 @@ const Skills = () => {
           </h1>
           <ul className="l grid grid-cols-1 sm:grid-cols-2 gap-8 px-8 py-4 ">
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-express-original"></i>
+              <i className="devicon-express-original"></i>
               <p>ExpressJs</p>
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-nodejs-plain"></i>
+              <i className="devicon-nodejs-plain"></i>
               <p>NodeJs</p>
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <i class="devicon-mongodb-plain"></i>
+              <i className="devicon-mongodb-plain"></i>
               <p>MongoDB</p>
             </li>
             <li className="flex items-center gap-4 text-2xl">
@@ -89,19 +89,19 @@ const Skills = () => {
         </h1>
         <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 px-8 py-4 ">
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-git-plain"></i>
+            <i className="devicon-git-plain"></i>
             <p>Git</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-github-original"></i>
+            <i className="devicon-github-original"></i>
             <p>GitHub</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-firebase-plain"></i>
+            <i className="devicon-firebase-plain"></i>
             <p>Firebase (Authentication)</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-firebase-plain"></i>
+            <i className="devicon-firebase-plain"></i>
             <p>Firebase (Hosting)</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
@@ -109,28 +109,28 @@ const Skills = () => {
             <p>Netlify</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-heroku-original"></i>
+            <i className="devicon-heroku-original"></i>
             <p>Heroku</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-figma-plain"></i>
+            <i className="devicon-figma-plain"></i>
             <p>Figma</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-photoshop-plain"></i>
+            <i className="devicon-photoshop-plain"></i>
             <p>Adobe Photoshop</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-illustrator-plain"></i>
+            <i className="devicon-illustrator-plain"></i>
             <p>Adobe Illustrator</p>
           </li>
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-canva-original"></i>
+            <i className="devicon-canva-original"></i>
             <p>Canva</p>
           </li>
 
           <li className="flex items-center gap-4 text-2xl">
-            <i class="devicon-tortoisegit-plain"></i>
+            <i className="devicon-tortoisegit-plain"></i>
             <p>Tortoise Git</p>
           </li>
 
