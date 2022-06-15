@@ -4,11 +4,32 @@ const project = {
   id: 3,
   title: "RoseView Convention Center",
   subtitle: "MERN Stack",
-  description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  technologies: ["React", "Node", "Express", "Tailwind CSS"],
+  description: "It is a convention center landing page build with bootstrap",
+  technologies: ["HTML", "CSS", "Bootstrap"],
   coverPhoto:
     "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center.png",
+  images: [
+    {
+      imageURL:
+        "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center-banner.png",
+      title: "Banner Section",
+    },
+    {
+      imageURL:
+        "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center-gallery.png",
+      title: "Gallery Section",
+    },
+    {
+      imageURL:
+        "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center-our-package.png",
+      title: "Our Package Section",
+    },
+    {
+      imageURL:
+        "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center-faq.png",
+      title: "FAQ Section",
+    },
+  ],
 
   live: "https://sec-masum.github.io/convention-center-landing-page-bootstrap/",
   client:

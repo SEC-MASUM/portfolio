@@ -11,7 +11,7 @@ const Footer = () => {
       <footer className="container mx-auto flex flex-col justify-center sm:flex-row-reverse sm:justify-between sm:items-center">
         <div className="flex justify-center sm:justify-end gap-4">
           <a
-            href="https://www.linkedin.com/in/masumbillah42/"
+            href="https://www.linkedin.com/in/sec-masum/"
             target="_blank"
             rel="noreferrer"
           >

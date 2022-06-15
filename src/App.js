@@ -13,7 +13,8 @@ function App() {
     <div>
       <Navbar />
       <Routes>
-        <Route index element={<Home />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/blogs" element={<Blogs />} />
         <Route path="/project/autoZone" element={<AutoZoneDetails />} />
         <Route path="/project/bookBuddy" element={<BookBuddyDetails />} />

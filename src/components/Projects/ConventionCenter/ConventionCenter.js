@@ -9,6 +9,28 @@ const project = {
   technologies: ["HTML", "CSS", "Bootstrap"],
   coverPhoto:
     "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center.png",
+  images: [
+    {
+      imageURL:
+        "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center-banner.png",
+      title: "Banner Section",
+    },
+    {
+      imageURL:
+        "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center-gallery.png",
+      title: "Gallery Section",
+    },
+    {
+      imageURL:
+        "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center-our-package.png",
+      title: "Our Package Section",
+    },
+    {
+      imageURL:
+        "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/convention-center-faq.png",
+      title: "FAQ Section",
+    },
+  ],
 
   live: "https://sec-masum.github.io/convention-center-landing-page-bootstrap/",
   client:

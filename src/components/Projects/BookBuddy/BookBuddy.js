@@ -6,8 +6,20 @@ const project = {
   title: "Book Buddy",
   subtitle: "MERN Stack",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  technologies: ["React", "Node", "Express", "Tailwind CSS"],
+    "It a book warehouse management website. Very exciting project using ReactJS, Tailwind and MongoDB. This project purpose is to implement User authentication, curd operation, work with both client and server, use JTW to make more secure to protect unauthentic access.",
+  technologies: [
+    "React",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Tailwind CSS",
+    "Tailwind CSS Forms",
+    "Firebase",
+    "React Firebase Hooks",
+    "React Router",
+    "React Icons",
+    "React Toastify",
+  ],
   coverPhoto:
     "https://raw.githubusercontent.com/SEC-MASUM/portfolio-resource/main/images/book-buddy.png",
   images: [

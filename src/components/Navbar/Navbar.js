@@ -51,7 +51,7 @@ const Navbar = () => {
         <div className="navbar-end">
           <div className="flex gap-4">
             <a
-              href="https://www.linkedin.com/in/masumbillah42/"
+              href="https://www.linkedin.com/in/sec-masum/"
               target="_blank"
               rel="noreferrer"
             >
